@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32164346-1fd8-4262-990c-b4ef87f46c95" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../ides-java/PrimeiroPrograma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ides-java/PrimeiroPrograma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ides-java/git/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ides-java/git/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ides-java/git/bin/com/dio/PrimeiroPrograma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ides-java/git/bin/com/dio/model/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ides-java/git/src/com/dio/PrimeiroPrograma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ides-java/git/src/com/dio/model/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../introducao-git-github/livro-receitas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/arrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/arrays/arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/arrays/out/production/arrays/dio/basecamp/ex1_ordem_inversa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/arrays/src/dio/basecamp/ex1_ordem_inversa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/arrays/src/dio/basecamp/ex2_consoantes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/arrays/src/dio/basecamp/ex4_array_multidimensional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/estruturas-repeticao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/out/production/estruturas-repeticao/dio/basecamp/ex2_nota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/out/production/estruturas-repeticao/dio/basecamp/ex3_maior_e_media.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/out/production/estruturas-repeticao/dio/basecamp/ex_1_nome_idade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/out/production/estruturas-repeticao/dio/basecamp/ex_4_par_impar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/out/production/estruturas-repeticao/dio/basecamp/ex_5_tabuada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/out/production/estruturas-repeticao/dio/basecamp/ex_6_fatorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/src/dio/basecamp/ex2_nota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/src/dio/basecamp/ex3_maior_e_media.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/src/dio/basecamp/ex_1_nome_idade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/src/dio/basecamp/ex_4_par_impar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/src/dio/basecamp/ex_5_tabuada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/estruturas-repeticao/src/dio/basecamp/ex_6_fatorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/logica-condicional-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/logica-condicional-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/logica-condicional-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/logica-condicional-1/logica-condicional-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repeticao_arrays/logica-condicional-1/src/dio/basecamp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variaveis-tipos-dados-operadores/tipos-dados/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variaveis-tipos-dados-operadores/tipos-dados/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variaveis-tipos-dados-operadores/tipos-dados/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variaveis-tipos-dados-operadores/tipos-dados/out/production/tipos-dados/dio/basecamp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variaveis-tipos-dados-operadores/tipos-dados/src/dio/basecamp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variaveis-tipos-dados-operadores/tipos-dados/tipos-dados.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variaveis-tipos-dados-operadores/variaveis_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variaveis-tipos-dados-operadores/variaveis_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variaveis-tipos-dados-operadores/variaveis_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variaveis-tipos-dados-operadores/variaveis_java/out/production/variaveis_java/dio/basecamp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variaveis-tipos-dados-operadores/variaveis_java/src/dio/basecamp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../variaveis-tipos-dados-operadores/variaveis_java/variaveis_java.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="29OgNpOySTJ7RpQe1oRMNkwwfAr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/workspace-projetos/workspace-projetos/Projetos Cursos Bootcamp/repeticao_arrays/arrays"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32164346-1fd8-4262-990c-b4ef87f46c95" name="Changes" comment="" />
+      <created>1652989508818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652989508818</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
